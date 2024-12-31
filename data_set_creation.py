@@ -35,3 +35,5 @@ if __name__ == "__main__":
     dataset = create_dataset()
     dataset.to_csv('credit_default_dataset.csv', index=False)
     print("Dataset created and saved as 'credit_default_dataset.csv'")
+
+    
