@@ -181,6 +181,10 @@ View the evaluation metrics to assess model performance.
 1. **create_dataset.py**: Generates synthetic data for credit default prediction.
 2. **train_model.py**: Trains a CatBoost classifier on the generated dataset.
 
+## Screenshots:
+
+<img width="1440" alt="Screenshot 2025-01-01 at 3 52 15 AM" src="https://github.com/user-attachments/assets/3061850e-159a-49a4-8f18-16daa41690b3" />
+
 ## Contact
 
 For any queries, feedback, or collaboration opportunities, please reach out:
