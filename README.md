@@ -145,8 +145,8 @@ Since this is a binary classification problem, the following metrics were used t
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository_link>
-cd <repository_name>
+git clone https://github.com/mtptisid/Credit-Risk-Analysis-with-CatBoostClassifier
+cd Credit-Risk-Analysis-with-CatBoostClassifier
 ```
 
 ### 2. Set Up the Environment
